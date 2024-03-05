@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "6aa8",
+      "name": "jon doe",
+      "email": "jon@example.com",
+      "contact": "1234567890"
+    },
+    {
+      "id": "6107",
+      "name": "alpha",
+      "email": "alpha@example.com",
+      "contact": "456456456"
+    },
+    {
+      "id": "d568",
+      "name": "beta",
+      "email": "betaexample@gmail.com",
+      "contact": "789789789"
+    },
+    {
+      "id": "3f09",
+      "name": "gama",
+      "email": "gama@example.com",
+      "contact": "321213213"
+    },
+    {
+      "id": "d32a",
+      "userName": "lp123@abc.com",
+      "password": "lp"
+    },
+    {
+      "id": "a5e4",
+      "userName": "lp",
+      "password": "lp"
+    },
+    {
+      "id": "0cb6",
+      "userName": "abc",
+      "email": "abc@123.com",
+      "password": "123123"
+    }
+  ]
+}
